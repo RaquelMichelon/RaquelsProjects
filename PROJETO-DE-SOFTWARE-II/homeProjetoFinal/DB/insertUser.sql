@@ -1,0 +1,4 @@
+USE `abmr`;
+INSERT INTO `abmr`.`usuario` (`nome`, `email`, `senha`, `data_cadastro`, `data_nasc`, `cidade`, `idsexo`, `foto_usuario`) VALUES ('Bruno Lima', 'bruno@abmr.com.br', 'devBruno', '2021-02-02', '1987-02-02', 'Florianópolis', 1, 'brunito.png');
+INSERT INTO `abmr`.`usuario` (`nome`, `email`, `senha`, `data_cadastro`, `data_nasc`, `cidade`, `idsexo`, `foto_usuario`) VALUES ('Marlon Oliveira', 'marlon@abmr.com.br', 'devMarlon', '2021-03-03', '1998-03-03', 'Joinville', 1, 'marlonwhats.png');
+INSERT INTO `abmr`.`usuario` (`nome`, `email`, `senha`, `data_cadastro`, `data_nasc`, `cidade`, `idsexo`, `foto_usuario`) VALUES ('Raquel Darelli', 'raquel@abmr.com.br', 'devRaquel', '2021-04-04', '1990-04-04', 'Florianópolis', 2, 'rachella.png');

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="17" viewBox="0 0 19 17">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="19" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="19" height="17" fill="rgba(255,255,255,0)"/>
+    <path id="coracao-72" d="M7.576,2.177C6.314-1.251,0-.721,0,4.431,0,7,1.932,10.416,7.576,13.9c5.644-3.485,7.576-6.9,7.576-9.47C15.152-.69,8.839-1.251,7.576,2.177Z" transform="translate(2.348 1.794)" fill="#8a1d26"/>
+  </g>
+</svg>

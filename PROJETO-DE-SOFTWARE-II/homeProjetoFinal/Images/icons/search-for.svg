@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="739" height="507" viewBox="0 0 739 507">
+  <defs>
+    <clipPath id="clip-Web_1920_2">
+      <rect width="739" height="507"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_2" data-name="Web 1920 – 2" clip-path="url(#clip-Web_1920_2)">
+    <rect width="739" height="507" fill="rgba(255,255,255,0)"/>
+    <g id="coracao-de-busca" transform="translate(102.65 14.847)">
+      <path id="Caminho_1902" data-name="Caminho 1902" d="M272,149.333a50.56,50.56,0,0,0-48,52.8,50.56,50.56,0,0,0-48-52.8,50.56,50.56,0,0,0-48,52.8c0,41.536,54.144,90.987,81.067,112.64a23.808,23.808,0,0,0,29.867,0C265.9,293.12,320,243.669,320,202.133A50.56,50.56,0,0,0,272,149.333Z" transform="translate(624.745 -136.02)"/>
+      <path id="Caminho_1903" data-name="Caminho 1903" d="M482.366,416.484l-95.044-90.207c71.115-90.169,51.733-217.969-43.29-285.452S114.326-8.265,43.211,81.9-8.522,299.873,86.5,367.355c76.338,54.212,181.192,54.212,257.53,0L439.1,457.581a31.773,31.773,0,0,0,43.27,0,28,28,0,0,0,0-41.059v-.038ZM63.1,204.82C63.1,124.672,131.572,59.7,216.036,59.7S368.97,124.672,368.97,204.82,300.5,349.941,216.036,349.941C131.609,349.855,63.191,284.932,63.1,204.82Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+    <path id="Caminho_1210" data-name="Caminho 1210" d="M486.117,155.476,411.711,81.07H353.75L418.077,145.4h-17.7v82.5h68.04V155.476Z" transform="translate(-62.583 58.717)" fill="#e5e0e0"/>
+    <path id="Caminho_1212" data-name="Caminho 1212" d="M475.912,155.476,401.506,81.07,327.1,155.476h27.78V227.9h93.252V155.476Z" transform="translate(-110.339 58.717)" fill="#fff"/>
+    <path id="Caminho_1211" data-name="Caminho 1211" d="M486.117,155.476,411.711,81.07H353.75L418.077,145.4h-17.7v82.5h68.04V155.476Z" transform="translate(-62.583 58.717)" fill="#fff" opacity="0.4"/>
+    <path id="Caminho_1213" data-name="Caminho 1213" d="M475.912,155.476,401.506,81.07,327.1,155.476h27.78V227.9h93.252V155.476Z" transform="translate(-110.339 58.717)" fill="#fff" opacity="0.7"/>
+  </g>
+</svg>

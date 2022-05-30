@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="image-3" transform="translate(-12 -12)">
+    <g id="color">
+      <path id="Caminho_9" data-name="Caminho 9" d="M36,13A23,23,0,1,0,59,36,23.026,23.026,0,0,0,36,13Z" fill="#efb542"/>
+    </g>
+    <g id="line">
+      <circle id="Elipse_3" data-name="Elipse 3" cx="23" cy="23" r="23" transform="translate(13 13)" fill="none" stroke="#8a1d26" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Linha_3" data-name="Linha 3" x2="18" transform="translate(27 43)" fill="none" stroke="#8a1d26" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Caminho_10" data-name="Caminho 10" d="M30,31a3,3,0,1,1-3-3,3,3,0,0,1,3,3" fill="#8a1d26"/>
+      <path id="Caminho_11" data-name="Caminho 11" d="M48,31a3,3,0,1,1-3-3,3,3,0,0,1,3,3" fill="#8a1d26"/>
+    </g>
+  </g>
+</svg>

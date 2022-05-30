@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="image-4" transform="translate(-12 -12)">
+    <g id="color">
+      <circle id="Elipse_4" data-name="Elipse 4" cx="23" cy="23" r="23" transform="translate(13 13)" fill="#efb542"/>
+      <path id="Caminho_12" data-name="Caminho 12" d="M50.6,41.64a11.555,11.555,0,0,1-.87,4.49c-12.49,3.03-25.43.34-27.49-.13a11.435,11.435,0,0,1-.83-4.36h.11s14.8,3.59,28.89.07Z" fill="#fff"/>
+      <path id="Caminho_13" data-name="Caminho 13" d="M49.725,46.13c-1.79,4.27-6.35,7.23-13.69,7.23-7.41,0-12.03-3.03-13.8-7.36C24.3,46.47,37.235,49.16,49.725,46.13Z" fill="#ea5a47"/>
+    </g>
+    <g id="line">
+      <circle id="Elipse_5" data-name="Elipse 5" cx="23" cy="23" r="23" transform="translate(13 13)" fill="none" stroke="#8a1d26" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <ellipse id="Elipse_6" data-name="Elipse 6" cx="3" cy="5.404" rx="3" ry="5.404" transform="translate(25.568 25.414)" fill="#8a1d26"/>
+      <ellipse id="Elipse_7" data-name="Elipse 7" cx="3" cy="5.404" rx="3" ry="5.404" transform="translate(40.432 25.418)" fill="#8a1d26"/>
+      <path id="Caminho_14" data-name="Caminho 14" d="M50.6,41.64a11.555,11.555,0,0,1-.87,4.49c-12.49,3.03-25.43.34-27.49-.13a11.435,11.435,0,0,1-.83-4.36h.11s14.8,3.59,28.89.07Z" fill="none" stroke="#8a1d26" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Caminho_15" data-name="Caminho 15" d="M49.725,46.13c-1.79,4.27-6.35,7.23-13.69,7.23-7.41,0-12.03-3.03-13.8-7.36C24.3,46.47,37.235,49.16,49.725,46.13Z" fill="none" stroke="#8a1d26" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

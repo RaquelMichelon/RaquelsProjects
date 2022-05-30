@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&amp;display=swap');
+
+body {
+    font-family: Poppins;
+    font-size: 13px;
+    margin: 30px;
+    background-color: #f4f4f4;
+}
+
+.header {
+    display: block;
+    justify-content: center;
+
+}
+
+.header img {
+    height: 80px;
+    justify-items: center;
+    margin-left: 43%;
+}
+
+input {
+    border: solid 1px #dbdbdb;
+    border-radius: 5px;
+}
+
+h1 {
+    width: 53.5%;
+    /* border: 1px solid; */
+    border-radius: 3%;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #8A1D26;
+    font-weight: 700;
+}
+
+input {
+    height: 25px;
+    width: 65%;
+}
+
+fieldset {
+    width: 59%;
+    background-color: #ffffff;
+    /* box-shadow: 2px 2px 2px #ffc757; */
+    margin: auto;
+    padding: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    border: none;
+    /* border-color: #a72530; */
+}
+
+fieldset legend {
+    font-size: 17px;
+    color: #a72530;
+}
+
+fieldset label {
+    height: 35px;
+    width: 200px;
+    display: inline-block;
+    text-align: right;
+    margin-bottom: 15px;
+    font-size: 14px;
+    margin-right: 8px;
+}
+
+.botoes {
+    display: flex;
+    justify-content: space-between;
+}
+
+fieldset button {
+    margin-top: 100px;
+    display: block;
+    margin: auto;
+    width: 350px;
+    height: 40px;
+    font-weight: bold;
+    font-family: Poppins;
+    color: #8A1D26;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #EFB542;
+    font-size: 17px;
+}
+
+button a {
+    text-decoration: none;
+    color: #8A1D26;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+
+
+/* Container */
+.containerckd {
+    position: relative;
+    padding-left: 25px;
+    cursor: pointer;
+    width: fit-content;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+/* Esconde botão de rádio default do navegador */
+.containerckd input {
+    position: absolute;
+    opacity: 0;
+    
+}
+
+.upload {
+    border: 0;
+}
+
+/* Cria botão de rádio customizado */
+.checkmark {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    height: 15px;
+    width: 15px;
+    background-color: #eee;
+    border-radius: 50%;
+}
+
+/* Ao passar o mouse, adiciona a cor de fundo cinza no botão de rádio */
+.containerckd:hover input ~ .checkmark {
+    background-color: #ccc;
+}
+
+/* Quando marcado, adiciona a cor azul ao botão de rádio */
+.containerckd input:checked ~ .checkmark {
+    background-color: #a72530;
+}
+
+.row{
+    margin-left: 165px;
+    align-items: center;
+}
+
+p {
+    text-align: center;
+    width: 50%;
+    margin: 20px auto;
+}

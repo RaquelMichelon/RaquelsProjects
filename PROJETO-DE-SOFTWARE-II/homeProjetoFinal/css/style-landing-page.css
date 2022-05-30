@@ -1,0 +1,156 @@
+#page-landing {
+    background: var(--color-background);
+}
+#page-landing #container {
+    color: var(--color-text-in-primary);
+}
+
+.button-header-container {
+    display: flex;
+}
+
+.button-header-container a {
+    margin: 0 2rem;
+    font-size: 1.8rem;
+    color: var(--color-text-in-primary);
+    text-decoration: none;
+}
+.button-header-container a.login {
+    margin: 0 0 0 2rem;
+    font-size: 1.8rem;
+    color: var(--color-text-in-primary);
+    /* text-decoration: none; */
+}
+
+.logo-container img {
+    height: 12rem; 
+}
+.logo-container {
+    text-align: center;
+    margin-bottom: 3.2rem;
+}
+.logo-container h2 {
+    font-weight: 500;
+    font-size: 3.6rem;
+    line-height: 4.6rem;
+    margin-top: 1.8rem;
+
+}
+
+@media (max-widht: 699px) {
+    :root {
+        font-size: 40%;
+    }
+}
+.hero-image {
+    width: 130%;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: center;
+    margin: 3.2rem 0;
+}
+.buttons-container a {
+    width: 26rem;
+    height: 7.4rem;
+   border-radius: 1.4rem;  /* 2rem */
+    margin-right: 1.6rem;
+
+    font: 700 1.8rem Archivo;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-decoration: none;
+
+    transition: background 0.2s;
+
+    color: var(--color-secondary);
+}
+
+.buttons-container a img {
+    width: 4rem;
+    margin-right: 1rem;
+}
+.buttons-container a.assess {
+    background-color: var(--color-primary);
+    /* border-width: thin; */
+    /* border-style: solid; */
+    /* color: var(--color-button-text-2); */
+}
+
+.buttons-container a.assess:hover {
+    background: var(--color-primary-light);
+
+}
+
+.buttons-container a.search-for {
+    background: var(--color-secondary);
+    margin-right: 0;
+    color: var(--color-primary);
+}
+.buttons-container a.search-for:hover {
+    background: var(--color-secondary-dark);
+
+}
+.total-connections {
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.total-connections img {
+    margin-left: 0.8rem;
+}
+
+@media (min-width: 1100px) {
+    #page-landing #container {
+        max-width: 1100px;
+        display: grid;
+        grid-template-columns: 2fr 1fr 2fr;
+        grid-template-rows: 10px 350px 1fr;
+        grid-template-areas:
+        "logo buttons buttons" 
+        "logo image image"
+        "button button text";
+        column-gap: 87px;
+        row-gap: 86px;
+    }
+
+    .button-header-container {
+        grid-area: buttons;
+        justify-content: flex-end;
+        margin: 0;
+    }
+
+    .about:hover, .contact:hover, a.login:hover {
+        text-decoration: underline var(--color-primary);
+    }
+
+    .logo-container {
+        grid-area: logo;
+        text-align: initial;
+        /* align-self: center; */
+        margin: 0;
+    }
+    .logo-container img {
+        height: 127px;
+    }
+    .hero-image {
+        grid-area: image;
+        height: 370px;
+    }
+    .buttons-container {
+        grid-area: button;
+        justify-content: flex-start;
+        margin: 0;
+    }
+    .total-connections {
+        grid-area: text;
+        justify-self: end;
+        font-size: 1.2rem;
+    }
+}
