@@ -15,6 +15,7 @@ Web Service to register sensors, sensors measurements and sensors events.
 ## Home. - Web Page to rate rental properties and looking for rental properties rank
 
 - [Project Code](PROJETO-DE-SOFTWARE-II)
+  ![](PROJETO-DE-SOFTWARE-II/homeProjetoFinal/Images/logo-cores-projeto.png)
 
 ---
 
